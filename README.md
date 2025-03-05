@@ -12,3 +12,9 @@ Packaging for Rudelblinken cat ears
 
 ## Shipping Cost
 * If you use thinner cardboard, the `Kompaktbrief` (1,10€) is recommended. For everythink else use the `Großbrief` (1,80€).
+
+## colorpalettes
+* Mostly [Catppuccin Latte](https://catppuccin.com/palette/), but also a bit of [uchū](https://uchu.style/)
+
+## Fonts
+* We use [Monaspace](https://monaspace.githubnext.com/)
