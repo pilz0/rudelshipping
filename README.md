@@ -6,6 +6,13 @@ Packaging for Rudelblinken cat ears
 * 250-400g cardboard is recommended  
 * Cheap printing companys in germany are: Saxoprint, wir-machen-druck or Flyeralarm
 
+## Designs
+### SixBoard
+![SixBoard Design](assets/sixboard.png)
+
+### RudelKit
+![RudelKit Design](assets/rudelkit.png)
+
 ## How to Package
 * Glue the components with ballon glue to the card
 * Put the card in an envelope, recommended are `Versandtaschen Din Lang` for the SixBoard-Design and `Versandtaschen Din A5` for the RudelKit-Design, both made out of 250g cardboard
@@ -14,7 +21,8 @@ Packaging for Rudelblinken cat ears
 * If you use thinner cardboard, the `Kompaktbrief` (1,10€) is recommended. For everythink else use the `Großbrief` (1,80€).
 
 ## colorpalettes
-* Mostly [Catppuccin Latte](https://catppuccin.com/palette/), but also a bit of [uchū](https://uchu.style/)
+* [Catppuccin Latte](https://catppuccin.com/palette/), 
+* [uchū](https://uchu.style/)
 
 ## Fonts
-* We use [Monaspace](https://monaspace.githubnext.com/)
+* [Monaspace](https://monaspace.githubnext.com/)
