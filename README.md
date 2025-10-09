@@ -8,10 +8,12 @@ Packaging for Rudelblinken cat ears
 
 ## Designs
 ### SixBoard
-![SixBoard Design](assets/sixboard.png)
+![SixBoard Front](SixBoard/Front.svg)
+![SixBoard Back](SixBoard/Back.svg)
 
 ### RudelKit
-![RudelKit Design](assets/rudelkit.png)
+![RudelKit Front](RudelKit/Front.svg)
+![RudelKit Back](RudelKit/Back.svg)
 
 ## How to Package
 * Glue the components with ballon glue to the card
