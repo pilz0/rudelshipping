@@ -1,17 +1,17 @@
 # Rudelshipping
-Packaging for Rudelblinken cat ears
+Packaging for [Rudelblinken](https://github.com/zebreus/rudelblinken-rs) cat ears
 
 ## How to Print
 * Print the PDF for the SixBoard-Design in the format `DIN-Lang-Quer` and the RudelKit-Design in `DIN-A5-Quer`
 * 250-400g cardboard is recommended  
-* Cheap printing companys in germany are: Saxoprint, wir-machen-druck or Flyeralarm
+* Cheap printing companys in germany are: [Saxoprint](https://www.saxoprint.de), [wir-machen-druck.de](https://www.wir-machen-druck.de) or [Flyeralarm](https://www.flyeralarm.com)
 
 ## How to Package
-* Glue the components with ballon glue to the card
-* Put the card in an envelope, recommended are `Versandtaschen Din Lang` for the SixBoard-Design and `Versandtaschen Din A5` for the RudelKit-Design, both made out of 250g cardboard
+* Stick the components with balloon glue to the card
+* Put the card in an envelope, recommended are `Versandtaschen DIN Lang` for the SixBoard-Design and `Versandtaschen DIN A5` for the RudelKit-Design, both made out of 250g cardboard
 
 ## Shipping Cost
-* If you use thinner cardboard, the `Kompaktbrief` (1,10€) is recommended. For everythink else use the `Großbrief` (1,80€).
+* If you use thinner cardboard, the `Kompaktbrief` (1,10€) is recommended. For everything else use the `Großbrief` (1,80€).
 
 ## colorpalettes
 * [Catppuccin Latte](https://catppuccin.com/palette/), 
